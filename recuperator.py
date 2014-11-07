@@ -36,8 +36,11 @@ def fetch(id):
         f.close
     #fin for
 #fin fetch
-     
+
+# id from where you start
 id = 706596642
+
+# id to go
 i  = 706293442
 
 while i > 0 :
